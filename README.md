@@ -1,2 +1,2 @@
-# kulfi
-Kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet
+# kulfi - Repo moved to [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi/)
+
